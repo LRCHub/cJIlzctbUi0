@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Cosa Nuestra",
+  "base_artist": "Rauw Alejandro",
+  "createdAt": "2026-02-13T01:56:20.489109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cosa Nuestra de Barrio",
+      "artist": "Vico C",
+      "has_synced": true,
+      "path": "select/01_Cosa_Nuestra_de_Barrio_Vico_C.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cosa Nuestra",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/02_Cosa_Nuestra_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cosa Nuestra",
+      "artist": "Rauw Alejandro",
+      "has_synced": false,
+      "path": "select/03_Cosa_Nuestra_Rauw_Alejandro.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rauw Alejandro - Cosa Nuestra (Lyric Video)",
+      "artist": "Rauw Alejandro",
+      "has_synced": false,
+      "path": "select/04_Rauw_Alejandro_-_Cosa_Nuestra_(Lyric_Video)_Rauw_Alejandro.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cosa Nuestra",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/05_Cosa_Nuestra_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cosa Nuestra [Explicit]",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/06_Cosa_Nuestra_[Explicit]_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cosa Nuestra",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/07_Cosa_Nuestra_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cosa Nuestra (Official Lyric Video)",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/08_Cosa_Nuestra_(Official_Lyric_Video)_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cosa Nuestra",
+      "artist": "Vico C",
+      "has_synced": true,
+      "path": "select/09_Cosa_Nuestra_Vico_C.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "08-Cosa nuestra",
+      "artist": "Vico C",
+      "has_synced": true,
+      "path": "select/10_08-Cosa_nuestra_Vico_C.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cosa Nuestra",
+      "artist": "Rauw Alejandro",
+      "has_synced": false,
+      "path": "select/pl_01_Cosa_Nuestra_Rauw_Alejandro.txt"
+    }
+  ]
+}
